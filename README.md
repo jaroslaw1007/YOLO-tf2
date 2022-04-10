@@ -1,10 +1,13 @@
 # YOLO-tf2
 
-A Tensorflow-2.0 version implementation of YOLO.
+A Tensorflow-2.0 version implementation of YOLO. <br />
 Joseph Redmon, Santosh Kumar Divvala, Ross B. Girshick, Ali Farhadi: You Only Look Once: Unified, Real-Time Object Detection in CVPR 2016.
+
 [arxiv](https://arxiv.org/pdf/1506.02640.pdf)
 
 ## Architecture
+
+![](https://github.com/jaroslaw1007/YOLO-tf2/blob/main/Architecture-of-YOLO-CNN.png)
 
 ## Dependencies
 * [Tensorflow2](https://www.tensorflow.org) >= 2.0.0
@@ -39,6 +42,12 @@ Then
 ```
 python main.py
 ``` 
+
+## Demo
+
+Blur the image for privacy.
+
+![](https://github.com/jaroslaw1007/YOLO-tf2/blob/main/demo.png)
 
 ## Citing
 
