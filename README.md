@@ -1,9 +1,7 @@
 # YOLO-tf2
 
 A Tensorflow-2.0 version implementation of YOLO. <br />
-Joseph Redmon, Santosh Kumar Divvala, Ross B. Girshick, Ali Farhadi: You Only Look Once: Unified, Real-Time Object Detection in CVPR 2016.
-
-[arxiv](https://arxiv.org/pdf/1506.02640.pdf)
+Joseph Redmon, Santosh Kumar Divvala, Ross B. Girshick, Ali Farhadi: You Only Look Once: Unified, Real-Time Object Detection in CVPR 2016. [arxiv](https://arxiv.org/pdf/1506.02640.pdf)
 
 ## Architecture
 
